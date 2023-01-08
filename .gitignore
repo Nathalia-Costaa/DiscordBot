@@ -12,6 +12,8 @@
 .idea/**/dictionaries
 .idea/*
 
+token.txt
+
 # AWS User-specific
 .idea/**/aws.xml
 
