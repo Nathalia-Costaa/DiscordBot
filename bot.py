@@ -1,1 +1,2 @@
-print('hello world')
+with open('token.txt', 'r') as arquivo:
+    token = arquivo.read()
